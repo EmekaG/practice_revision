@@ -35,4 +35,8 @@ This is a README.md file containing all the contents for hello World project
 * Question 7.
 * Write a C program that prints the size of various types on the computer it is compiled and run on.
 * Your program should return 0
+-------------------------------------------------------------------------------
+* Question 8.
+* Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
+-------------------------------------------------------------------------------
 
