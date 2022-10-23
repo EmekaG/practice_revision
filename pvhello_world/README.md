@@ -31,4 +31,8 @@ This is a README.md file containing all the contents for hello World project
 * Use the function printf
 * Your program should return 0
 * Your program should compile without warning when using the -Wall gcc option
+-------------------------------------------------------------------------------
+* Question 7.
+* Write a C program that prints the size of various types on the computer it is compiled and run on.
+* Your program should return 0
 
