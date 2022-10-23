@@ -21,4 +21,14 @@ This is a README.md file containing all the contents for hello World project
 * Write a script that compiles a C file and creates an executable named cisfun
 * The C file name will be saved in the variable $CFILE
 -------------------------------------------------------------------------------
+* Question 5.
+* Write a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+* Use the function puts
+* Your program should end with the value 0
+-------------------------------------------------------------------------------
+* Question 6.
+* Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
+* Use the function printf
+* Your program should return 0
+* Your program should compile without warning when using the -Wall gcc option
 
